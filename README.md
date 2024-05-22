@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My Name's Nicolas 👋
 
 I am a Developer that loves simplifying things. I love breaking down big scary problems into understandable solutions. I currently live in Brighton and Hove as a Front-End Developer specializing in ReactJS. In my spare time, I read tech blogs and listen to podcasts.
 <!--
