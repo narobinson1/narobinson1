@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a Developer that loves simplifying things. I love breaking down big scary problems into understandable solutions. I currently live in Brighton and Hove as a Front-End Developer specializing in ReactJS. In my spare time, I read tech blogs and listen to podcasts.
 <!--
 **narobinson1/narobinson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
